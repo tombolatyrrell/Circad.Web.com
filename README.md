@@ -1,6 +1,7 @@
 # Circad Design Ltd
 
-Electronic Design and Manufacturing - It's what we do 
+Electronic Design and Manufacturing - It's what we do.
+
 Circad, based in the UK, is a specialist electronics design and electronic prototyping company with bespoke PCB design and development capabilities. We also deliver electronic manufacturing services to customers in fast moving markets including high volume box build capabilities. 
  
 Circad supplies bespoke electronic design and manufacture solutions to businesses across the UK, Europe, Asia and the USA since 2000 from our facility in Suffolk. 
