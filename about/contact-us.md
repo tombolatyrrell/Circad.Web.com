@@ -1,12 +1,19 @@
-CIRCAD DESIGN 
-Contact Us
+# Contact Us
 
-Circad Design Limited 
+Circad Design Limited
+
 Unit 11A
-Farthing Road 
+
+Farthing Road
+
 Ipswich
-Suffolk 
+
+Suffolk
+
 IP1 5AP
 
-Tel: 01473 743700 
-Fax: 01473 464647 
+
+
+Tel: 01473 743700
+
+Fax: 01473 464647
