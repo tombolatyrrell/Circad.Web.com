@@ -52,6 +52,26 @@
       </div>
     </div>
 
+
+	  
+<h2>Image Maps</h2>
+
+<p>Click on the cup of coffee to execute a JavaScript function:</p>
+
+<img src="workplace.jpg" alt="Workplace" usemap="#workmap" width="400" height="379">
+
+<map name="workmap">
+  <area shape="circle" coords="337,300,44" href="coffee.htm" onclick="myFunction()">
+</map>
+
+<script>
+function myFunction() {
+  alert("You clicked the coffee cup!");
+}
+</script>
+
+
+	  
 <!-- 	<img src="assets/images/250.png" alt="Missing Image...!!" width="1920" height="1487"> -->
 	  <img src="assets/images/250.png" alt="Missing Image...!!" width="960" height="743">
 	  	  
